@@ -31,35 +31,35 @@ var config = {
      */
     imgs: {
         "For my": "./imgs/songxinxin.jpeg",
-        "Beloved girl": "./imgs/nothing.jpg",
+        "Beloved girl": "./imgs/nothing1.png",
         "Today is your birthday": "./imgs/shengri.jpeg",
         "This is our": "./imgs/zaiyiqi.png",
-        "Third birthday together!": "./imgs/nothing.jpg",
+        "Third birthday together!": "./imgs/nothing1.png",
         "In these two years, I've seen you": "./imgs/yangzi.jpeg",
-        "In strange looks": "./imgs/nothing.jpg",
-        "In cute looks": "./imgs/nothing.jpg",
-        "In angry looks": "./imgs/nothing.jpg",
-        "I love all these looks": "./imgs/nothing.jpg",
+        "In strange looks": "./imgs/nothing1.png",
+        "In cute looks": "./imgs/nothing1.png",
+        "In angry looks": "./imgs/nothing.png",
+        "I love all these looks": "./imgs/nothing1.png",
         "By the way, did you get all your gifts?": "./imgs/chuo.gif",
         "This year, eat well": "./imgs/chihaodian.png",
         "Get full": "./imgs/weibao.jpeg",
-        "Then you'll have the energy to work": "./imgs/nothing.jpg",
-        "And think of me!": "./imgs/nothing.jpg",
-        "Happy birthday~~": "./imgs/nothing.jpg"
+        "Then you'll have the energy to work": "./imgs/nothing1.png",
+        "And think of me!": "./imgs/nothing1.png",
+        "Happy birthday~~": "./imgs/nothing1.png"
     },
     
     // Button text description, the following is the default button text in English, you can change it to your favorite text
     desc: {
-        turn_on: "Click to start",
-        play: "Play music",
-        bannar_coming: "Add some color",
+        turn_on: "Lights",
+        play: "Party Time",
+        bannar_coming: "Make your life full of colours BaBe",
         balloons_flying: "Seems like something is missing",
-        cake_fadein: "Cake?",
+        cake_fadein: "Make a wish",
         light_candle: "Candles?",
-        wish_message: "Happy Birthday~",
+        wish_message: "Happy Birthday Sweat Heart",
         story: "A MESSAGE FOR YOU"
     },
 
     // End text
-    loveText: 'Love, Mr. X~'
+    loveText: 'Love, Mr. Sanyam(SAM)'
 };
